@@ -1,6 +1,3 @@
-#Name:Mandeep Rana
-#IST 707
-#HW 3
 #install.packages("arules")
 #install.packages("arulesViz")
 library("arules")
